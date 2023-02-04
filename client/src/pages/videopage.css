@@ -1,0 +1,16 @@
+#for-pc{
+    display: none;
+}
+#for-mobile{
+    display: block;
+    
+}
+
+@media screen and (min-width:768px){
+    #for-pc{
+        display: block;
+    }
+    #for-mobile{
+        display: none;
+    }  
+}

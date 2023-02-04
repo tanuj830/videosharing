@@ -1,0 +1,15 @@
+.hoverbtn:hover{
+    color: yellow;
+
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+}
+.search input{
+    border:"none";
+    background-color:"#f1f1f1";
+    border-radius:20px;
+    width:60%;
+}
